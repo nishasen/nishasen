@@ -10,10 +10,10 @@ I've been learning web development since a year, and I am loving the process. I 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nsnishasen.98@gmail.com](mailto:nsnishasen.98@gmail.com)
-* 🧠  I'm learning Web development.
+* 🧠  I'm a Web development.
 * 🤝  I'm open to collaborate on interesting projects.
 
-### HacktoberFest
+### HacktoberFest Badges
 
 [![@nishasen's Holopin board](https://holopin.me/nishasen)](https://holopin.io/@nishasen)
 
